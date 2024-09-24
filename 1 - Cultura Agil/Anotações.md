@@ -77,3 +77,5 @@
     11. Abordagem alternativa aos metodos tradicionais de desenvolvimento, permite corrigir as desvantagens associadas a sua utilização - vide atualizações e melhorias
 
 # Aula 5 - Carecterísticas dos Métodos Ágeis
+
+* Os metodos ágeis defendem a ideia de que os softwares devem ser de qualidade, que o cliente a medida que recebe as entregas, ja deve receber o sistema pronto.
