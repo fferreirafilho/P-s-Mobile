@@ -4,6 +4,7 @@
 * [Aula 3 - O Manifesto Ágil](#aula-3---o-manifesto-ágil)
 * [Aula 4 - Os benefícios dos Métodos Ágeis](#aula-4---os-benefícios-dos-métodos-ágeis)
 * [Aula 5 - Carecterísticas dos Métodos Ágeis](#aula-5---carecterísticas-dos-métodos-ágeis)
+* [6 - Principais razões para adotar a Metodologia Ágil](#6---principais-razões-para-adotar-a-metodologia-ágil)
 
 # Aula 2 - Tecnicas de gerenciamento de projeto
 
@@ -79,3 +80,20 @@
 # Aula 5 - Carecterísticas dos Métodos Ágeis
 
 * Os metodos ágeis defendem a ideia de que os softwares devem ser de qualidade, que o cliente a medida que recebe as entregas, ja deve receber o sistema pronto.
+
+* A metodologia agil é mais apropriada a incertezas, devido a volatilidade do projeto ou do mercado.
+
+* As cinco áreas do mercado que mais utilizam metodologias ageis são:
+    1. 27% em Tecnologia
+    2. 17% em Serviços Financeiros
+    3. 7% em Prestação de Serviços
+    4. 7% no Setor Publico
+    5. 6% na area de Seguros
+
+* Principais etapas para adoção das metologias ageis
+    1. Valor: Identifique quais setores, produtos e fluxos de trabalho criam mais valor para o negócio. Valorando o produto.
+    2. Estrutura: Crie fluxos de valor, de maneira a dar um sentido mais organizacional á tecnologia ou equipe.
+    3. Roadmap de implementação: ao chegar as conclusões para todos esses pontos. é hora de definir o roadmap de implementação.
+
+# 6 - Principais razões para adotar a Metodologia Ágil
+
