@@ -4,7 +4,8 @@
 * [Aula 3 - O Manifesto Ágil](#aula-3---o-manifesto-ágil)
 * [Aula 4 - Os benefícios dos Métodos Ágeis](#aula-4---os-benefícios-dos-métodos-ágeis)
 * [Aula 5 - Carecterísticas dos Métodos Ágeis](#aula-5---carecterísticas-dos-métodos-ágeis)
-* [6 - Principais razões para adotar a Metodologia Ágil](#6---principais-razões-para-adotar-a-metodologia-ágil)
+* [Aula 6 - Principais razões para adotar a Metodologia Ágil](#6---principais-razões-para-adotar-a-metodologia-ágil)
+* [Aula 7 - Módelo Kanban](#aula-7---módelo-kanban)
 
 # Aula 2 - Tecnicas de gerenciamento de projeto
 
@@ -95,5 +96,24 @@
     2. Estrutura: Crie fluxos de valor, de maneira a dar um sentido mais organizacional á tecnologia ou equipe.
     3. Roadmap de implementação: ao chegar as conclusões para todos esses pontos. é hora de definir o roadmap de implementação.
 
-# 6 - Principais razões para adotar a Metodologia Ágil
+# Aula 6 - Principais razões para adotar a Metodologia Ágil
 
+* Principais melhorias da metodologia agil
+    1. Acelera a entrega de seus produtos
+    2. Aprima a habilidade de gerencias prioridades
+    3. Melhora a produtividade
+
+* Repasse de conhecimentos atraés dos multiplicadores.
+
+* Maior integração entre a equipe.
+
+* Aprendizado sobre como lidar com erros, maior facilidade de flexibilidade para correção de erros no produto.
+
+* Principais pontos a serem evitados na metologia agil
+    1. Excesso de projetos paralelos ou acumulados nas equipes
+    2. Excesso de reuniões
+    3. Complexidade ignorada das ações
+
+# Aula 7 - Módelo Kanban
+
+* O molelo kanban é uma metodologia agil que trabalha com produções cartões que são marcados em colunas, onde cada coluna possui um status. Se baseia na ideia de que as atividades em andamento devem ser limitadas.
