@@ -117,3 +117,18 @@
 # Aula 7 - Módelo Kanban
 
 * O molelo kanban é uma metodologia agil que trabalha com produções cartões que são marcados em colunas, onde cada coluna possui um status. Se baseia na ideia de que as atividades em andamento devem ser limitadas.
+
+* Um novo item só pode ser iniciado quando o item em andamento for finalizado ou quando uma função automatica iniciar o mesmo.
+
+* O kanban basicamente tem como principal objetivo tornar visivil para toda a equipe o trabalho em andamento, criando um sinal visual que o novo trabalho pode ou não ser iniciado.
+
+* De origem japonesa sua tradução é algo como sinal ou cartão, ou registro visual.
+
+* O mecanismo de sinalização o modelo tem por objetivo apresentar uma atividade de trabalho e processo, ou seja, o número de atividades ou cartões em circulação é equivalente a capacidade da equipe.
+
+* Portanto ao inves dos membros que produzem o produto receberam a atividade conforme demanda, os requisitos são adicionados a uma lista de backlog e puxados pelos mebros da equipe quando ficam disponiveis
+
+* A implementação do modelo kanban se resume em três etapas:
+    1. Visualizar os processos
+    2. Limitar o trabalho em processo (WIP ~ Work in progress)
+    3. Gerenciamento do lead-time, ou seja, tempo que a atividade leva para passar por todas as fases até sua entrega.
