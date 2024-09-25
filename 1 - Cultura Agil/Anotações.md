@@ -6,6 +6,7 @@
 * [Aula 5 - Carecterísticas dos Métodos Ágeis](#aula-5---carecterísticas-dos-métodos-ágeis)
 * [Aula 6 - Principais razões para adotar a Metodologia Ágil](#6---principais-razões-para-adotar-a-metodologia-ágil)
 * [Aula 7 - Módelo Kanban](#aula-7---módelo-kanban)
+* [Aula 8 - Características do Módelo Kanban](#aula-8---características-do-módelo-kanban)
 
 # Aula 2 - Tecnicas de gerenciamento de projeto
 
@@ -39,13 +40,13 @@
 
 * A metodologia agil surgiu na virada do seculo para resolver os problemas que o watterfall trazia. Sendo um modelo mais leve, comunicativo e aberto a mudanças. 
 
-* O manifesto agil gerou quatro fundamentos fundamentais.
+O manifesto agil gerou quatro fundamentos fundamentais.
     * Individuos e interações acima de processos e ferramentas.
     * Software funcionando acima de documentação abrangente.
     * Colaboração com o cliente acima de negociação de contratos.
     * Respostas as transformação ou mudanças, mais que seguir um plano estabelecido.
 
-* O manifesto agil estabeleceu doze principios
+O manifesto agil estabeleceu doze principios
     1. Ter como prioridade a satisfação do cliente por meio de entregas de valor continuas e rapidas.
     2. Ser receptivo as alterações nos requisitos em qualquer fase do projeto. Alias, ambientes mutaveis são empregados em toda etada do projeto para entragar ao cliente vantagem competitiva.
     3. Realizar entregar frequentes (do produto ou serviço) no menor periodo de tempo possivel.
@@ -65,7 +66,7 @@
 
 * São metodologias adaptativas, ou seja iterativa e incremental.
 
-* Os maiores beneficios são:
+Os maiores beneficios são:
     1. O payback do produto é maior devido ao prazo de desenvolvimento menor.
     2. Maior satisfação do cliente, devido a tudo estar funcional e poder ser mudado.
     3. Melhor visibilidade dos projetos: as informações são visiveis a todos, sendo totalmente transparente ao cliente.
@@ -84,21 +85,21 @@
 
 * A metodologia agil é mais apropriada a incertezas, devido a volatilidade do projeto ou do mercado.
 
-* As cinco áreas do mercado que mais utilizam metodologias ageis são:
+As cinco áreas do mercado que mais utilizam metodologias ageis são:
     1. 27% em Tecnologia
     2. 17% em Serviços Financeiros
     3. 7% em Prestação de Serviços
     4. 7% no Setor Publico
     5. 6% na area de Seguros
 
-* Principais etapas para adoção das metologias ageis
+Principais etapas para adoção das metologias ageis
     1. Valor: Identifique quais setores, produtos e fluxos de trabalho criam mais valor para o negócio. Valorando o produto.
     2. Estrutura: Crie fluxos de valor, de maneira a dar um sentido mais organizacional á tecnologia ou equipe.
     3. Roadmap de implementação: ao chegar as conclusões para todos esses pontos. é hora de definir o roadmap de implementação.
 
 # Aula 6 - Principais razões para adotar a Metodologia Ágil
 
-* Principais melhorias da metodologia agil
+Principais melhorias da metodologia agil
     1. Acelera a entrega de seus produtos
     2. Aprima a habilidade de gerencias prioridades
     3. Melhora a produtividade
@@ -109,7 +110,7 @@
 
 * Aprendizado sobre como lidar com erros, maior facilidade de flexibilidade para correção de erros no produto.
 
-* Principais pontos a serem evitados na metologia agil
+Principais pontos a serem evitados na metologia agil
     1. Excesso de projetos paralelos ou acumulados nas equipes
     2. Excesso de reuniões
     3. Complexidade ignorada das ações
@@ -128,7 +129,39 @@
 
 * Portanto ao inves dos membros que produzem o produto receberam a atividade conforme demanda, os requisitos são adicionados a uma lista de backlog e puxados pelos mebros da equipe quando ficam disponiveis
 
-* A implementação do modelo kanban se resume em três etapas:
+A implementação do modelo kanban se resume em três etapas:
     1. Visualizar os processos
     2. Limitar o trabalho em processo (WIP ~ Work in progress)
     3. Gerenciamento do lead-time, ou seja, tempo que a atividade leva para passar por todas as fases até sua entrega.
+
+# Aula 8 - Características do Módelo Kanban
+
+* Simples, barato e rapido.
+
+* O numero de cartões representa a capacidade limite acordada em cada fase do sistema que são colocadas em circulação.
+
+* Cada cartão funciona como mecanismo de sinalização e o sistema so permite uma nova tarefa quando um cartão estiver disponivel
+
+Ganhos:
+
+    * Melhoria da gestão de mudanças de prioridades
+
+    * Maior visibilidade dos projetos
+
+    * Maior simplificação do processo
+
+    * Garantindo que todos os passos sejam seguidos do inicio ao fim
+
+Rotina dos trabalhadores:
+    
+    * O colaborador chega ao trabalho e olha o quadro conferindo tudo que precisa fazer
+    
+    * Analisa as tarefas que foram finalizadas e as que ainda faltam concluir
+    
+    * Define o que precisa ser feito primeiro e o que precisa ser realocado
+    
+    * E ainda descobre que algumas coisas nem precisam ser feitas
+
+* Divido em tres quadros
+
+    ![kanban](./img/kanban.png)
