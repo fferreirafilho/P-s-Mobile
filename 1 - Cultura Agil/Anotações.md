@@ -9,6 +9,7 @@
 * [Aula 8 - Características do Módelo Kanban](#aula-8---características-do-módelo-kanban)
 * [Aula 9 - Kanban e a Melhoria Contínua dos Processos](#aula-9---kanban-e-a-melhoria-contínua-dos-processos)
 * [Aula 10 - Contribuição do Kanban para a maturidade de equipe](#aula-10---contribuição-do-kanban-para-a-maturidade-de-equipe)
+* [Aula 11 - Extremme Programming](#aula-11---extremme-programming)
 
 # Aula 2 - Tecnicas de gerenciamento de projeto
 
@@ -49,17 +50,29 @@ O manifesto agil gerou quatro fundamentos fundamentais.
     * Respostas as transformação ou mudanças, mais que seguir um plano estabelecido.
 
 O manifesto agil estabeleceu doze principios
+    
     1. Ter como prioridade a satisfação do cliente por meio de entregas de valor continuas e rapidas.
+    
     2. Ser receptivo as alterações nos requisitos em qualquer fase do projeto. Alias, ambientes mutaveis são empregados em toda etada do projeto para entragar ao cliente vantagem competitiva.
+    
     3. Realizar entregar frequentes (do produto ou serviço) no menor periodo de tempo possivel.
+    
     4. Manter a colaboração das partes envolvidas em todo o projeto, diariamente
+    
     5. Fornecer o ambiente, as ferramentas e o suporte necessarios aos individuos do projeto, alem de acreditar neles para realizar as atividades.
+    
     6. Estimular a comunicação pessoal, para transmissão de informações, com especial atenção para reuniões presenciais, consideradas mais eficazes para o sucesso do projeto.
+    
     7. Um produto final de trabalho corresponde a medida final do exito: no caso da tecnologia, consiste no softare funcionando.
+    
     8. Os profissionais envolvidos no processo precisam manter um ritmo constante, de modo indefinido, pois fluxos ageis estimulam um desenvolvimento sustentavel
+    
     9.  Manter anteção frequente a excelencia de design e tecnica eleva ou aprimora a agilidade
+    
     10. Elimiar o maximo de esforçoes que não agregqam valor ao produto: simplicidade é fundamental.
+    
     11. Equipes auto organizaveis atenderem aos requisitos do projeto
+    
     12. Por meio de intervalos regulares, o time do projeto reflete sobre commo melhorar a sua eficiencia e eficacia para otimizar o seu comportamento
 
 # Aula 4 - Os benefícios dos Métodos Ágeis
@@ -69,16 +82,27 @@ O manifesto agil estabeleceu doze principios
 * São metodologias adaptativas, ou seja iterativa e incremental.
 
 Os maiores beneficios são:
+    
     1. O payback do produto é maior devido ao prazo de desenvolvimento menor.
+    
     2. Maior satisfação do cliente, devido a tudo estar funcional e poder ser mudado.
+    
     3. Melhor visibilidade dos projetos: as informações são visiveis a todos, sendo totalmente transparente ao cliente.
+    
     4. Maior produtividade.
+    
     5. Equipes mais motivadas devido a interação e pequenos grupos de desenvolvimento.
+    
     6. Melhor disciplina na engenharia e melhor qualidade interna
+    
     7. Processo de desenvolvimento simplificado: os metodos ageis são mais simples para as equipes, visando todos saberem sobre o produto, oferecendo maior adaptação
+    
     8. Redução de risco: O planejamento e o desenvolvimento sendo avaliado por alguem garante que o risco seja menor - codereview
+    
     9. Maior balanceamento dos riscos: menores entregas mais velocidade e motivação
+    
     10. Redução de custos: sempre visando o essencial, e as maiores prioridades, reduzindo o custo
+    
     11. Abordagem alternativa aos metodos tradicionais de desenvolvimento, permite corrigir as desvantagens associadas a sua utilização - vide atualizações e melhorias
 
 # Aula 5 - Carecterísticas dos Métodos Ágeis
@@ -88,22 +112,33 @@ Os maiores beneficios são:
 * A metodologia agil é mais apropriada a incertezas, devido a volatilidade do projeto ou do mercado.
 
 As cinco áreas do mercado que mais utilizam metodologias ageis são:
+    
     1. 27% em Tecnologia
+    
     2. 17% em Serviços Financeiros
+    
     3. 7% em Prestação de Serviços
+    
     4. 7% no Setor Publico
+    
     5. 6% na area de Seguros
 
 Principais etapas para adoção das metologias ageis
+    
     1. Valor: Identifique quais setores, produtos e fluxos de trabalho criam mais valor para o negócio. Valorando o produto.
+    
     2. Estrutura: Crie fluxos de valor, de maneira a dar um sentido mais organizacional á tecnologia ou equipe.
+    
     3. Roadmap de implementação: ao chegar as conclusões para todos esses pontos. é hora de definir o roadmap de implementação.
 
 # Aula 6 - Principais razões para adotar a Metodologia Ágil
 
 Principais melhorias da metodologia agil
+    
     1. Acelera a entrega de seus produtos
+    
     2. Aprima a habilidade de gerencias prioridades
+    
     3. Melhora a produtividade
 
 * Repasse de conhecimentos atraés dos multiplicadores.
@@ -113,8 +148,11 @@ Principais melhorias da metodologia agil
 * Aprendizado sobre como lidar com erros, maior facilidade de flexibilidade para correção de erros no produto.
 
 Principais pontos a serem evitados na metologia agil
+    
     1. Excesso de projetos paralelos ou acumulados nas equipes
+    
     2. Excesso de reuniões
+   
     3. Complexidade ignorada das ações
 
 # Aula 7 - Módelo Kanban
@@ -132,8 +170,11 @@ Principais pontos a serem evitados na metologia agil
 * Portanto ao inves dos membros que produzem o produto receberam a atividade conforme demanda, os requisitos são adicionados a uma lista de backlog e puxados pelos mebros da equipe quando ficam disponiveis
 
 A implementação do modelo kanban se resume em três etapas:
+    
     1. Visualizar os processos
+   
     2. Limitar o trabalho em processo (WIP ~ Work in progress)
+   
     3. Gerenciamento do lead-time, ou seja, tempo que a atividade leva para passar por todas as fases até sua entrega.
 
 # Aula 8 - Características do Módelo Kanban
@@ -172,19 +213,29 @@ Rotina dos trabalhadores:
 # Aula 9 - Kanban e a Melhoria Contínua dos Processos
 
 O Kanban possui quatro principios fundamentais focados em melhoria continua de processos e pessoas
+    
     1. Comece com o que você está fazendo agora
+    
     2. Concorde em buscar mudanças evolucionarias
+    
     3. Inicialmente, respeite os papeis, responsabilidades e cargos atuais
+    
     4. Incentive atos de liderança em todos os niveis
 
 * Uma das principais utilzações do kanban é a gestão à vista
 
 Prepararativos para implementação do kanban
+    
     1. Mapeamento dos processos
+    
     2. Detalhamento das atividades e das entregas que serão monitoradas
+    
     3. Priorização das atividades e definição dos recursos
+    
     4. Montagem do Kanban
+    
     5. Uso do kanban a plena força
+    
     6. Melhoria continua
 
 # Aula 10 - Contribuição do Kanban para a maturidade de equipe
@@ -194,13 +245,51 @@ Prepararativos para implementação do kanban
 * O kanban pode ser fisico ou digital.
 
 Para se tornar um modelo kanban é necessario aplicar tres etapas
+
     1. Criar o painel de visualização
+   
     2. Limitar os processos em WIP
+   
     3. Gerenciar o lead-time: puxar uma nova tarefa SOMENTE quando o cartão está disponivel
 
 Um quadro simples pode conter as seguintes etapas
+    
     1. Analise
+    
     2. Desenvolvimento
+    
     3. Aceitação
+    
     4. Implantação
 
+# Aula 11 - Extremme Programming
+
+A principal linha de raciocionio de criação dos metodos ageis foi publicado no chamado "Manifesto para o Desenvolvimento Ágil de Software". O qual valoriza quatro princípios:
+
+    1. Individuos e interações acima de processos e ferramentas
+
+    2. Software funcionando acima de documentação abrangente
+
+    3. Colaboração com o cliente acima de negociação de contratos
+
+    4. Responder as mudanças acima de seguir um plano.
+
+Sendo assim processos ageis focam na entrega constante de funcionalidades, entregando produtos com valor agregado, pregando interação entre ambas as partes.
+
+* A origem do XP remonta aos anos 90 quanto Kent Beck foi chamado para avaliar um projeto da Chrysler, que não foi para frente de 1993 a 1996. Após o sucesso no projeto da Chrysler, o XP foi considerado como uma nova estrela no meio do desenvolvimento de software. 
+
+* A XP é uma metodologia de desenvolvimento de software voltada para pequenas e medias empresas, para sistemas que possuam requisitos vagos, com pouca precisão e muita mudança.
+
+* O processo é composto por quatro atividades basicas: Planejamento, Projeto, Codificação e Teste, que são repetidas a cada Iteração após Iteração.
+
+A XP é baseada em cinco valores fundamentais
+
+    1. Comunicação entre o cliente e equipe de desenvolvimento. 
+    
+    2. A simplicidade faz a equipe implementar apenas o necessário.
+    
+    3. O feedback do cliente para com a equipe do desenvolvimento.
+    
+    4. A coragem trata da equipe acredita que, utilizando as praticas XP, será capaz de fazer o software evoluir com segurança e agilidade.
+    
+    5. O respeito com o time e o cliente é muito importante.
