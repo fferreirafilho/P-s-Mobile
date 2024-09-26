@@ -10,6 +10,7 @@
 * [Aula 9 - Kanban e a Melhoria Contínua dos Processos](#aula-9---kanban-e-a-melhoria-contínua-dos-processos)
 * [Aula 10 - Contribuição do Kanban para a maturidade de equipe](#aula-10---contribuição-do-kanban-para-a-maturidade-de-equipe)
 * [Aula 11 - Extremme Programming](#aula-11---extremme-programming)
+* [Aula 12 - Valores Fundamentais da XP](#aula-12---valores-fundamentais-da-xp)
 
 # Aula 2 - Tecnicas de gerenciamento de projeto
 
@@ -293,3 +294,25 @@ A XP é baseada em cinco valores fundamentais
     4. A coragem trata da equipe acredita que, utilizando as praticas XP, será capaz de fazer o software evoluir com segurança e agilidade.
     
     5. O respeito com o time e o cliente é muito importante.
+
+# Aula 12 - Valores Fundamentais da XP
+
+Os quatro valores que servem como critérios que norteiam o XP
+    
+    1. Comunicação: Foca em construir um entendimento pessoa-a-pessoa do problema, com o minico de documentação formal, Programação em pares: Um desenvolve e um testa, depois é invertido para que o teste não fique viciado
+    
+    2. Simplicidade: Cada membro da equipe deve adotar o que é mais simples hoje, buscando um custo de manutenção e mudança baixa
+    
+    3. Feedback: Devido a programação em pares um testa e outra faz, dando feedback dos casos de uso e no fim o cliente testa e da o feedback
+
+    4. Coragem: É necessário para que realmente se aplique a XP como ela deve ser aplicada. 
+
+    5. Respeito
+
+A XP também define um conjunto de principios que devem ser seguidos pelas equipes nas alternativas de solução de problemas durante o curso do projeto:
+
+    1. Feedback rápido: a ideia de que os participantes do projeto devem ser sempre se comunicando para facilitar o aprendizado coletivo sobre o que está sendo desenvolvido e emitir alerta sobre dúvidas, riscos e problemas
+
+    2. Assumir a simplicidade: Todo problema deve ser resolvido da forma mais simples possivel.
+
+    3. Mudança incremental: muitas mudanças são realizadas todas de uma vez, não é bom. Os programadores têm sempre liberdade para fazer melhorias no código e mudanças de requisitos são incorporadas de forma incremental. 
