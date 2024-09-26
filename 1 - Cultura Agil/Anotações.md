@@ -316,3 +316,7 @@ A XP também define um conjunto de principios que devem ser seguidos pelas equip
     2. Assumir a simplicidade: Todo problema deve ser resolvido da forma mais simples possivel.
 
     3. Mudança incremental: muitas mudanças são realizadas todas de uma vez, não é bom. Os programadores têm sempre liberdade para fazer melhorias no código e mudanças de requisitos são incorporadas de forma incremental. 
+
+    4. Abraçando mudanças (Embracing Changes): Facilita incluir alterações através do uso de vários princípios e práticas .
+
+    5. Trabalho de qualidade: qualidade não é um critério opcional, mas sim obrigatório.
