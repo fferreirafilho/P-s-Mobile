@@ -7,6 +7,8 @@
 * [Aula 6 - Principais razões para adotar a Metodologia Ágil](#6---principais-razões-para-adotar-a-metodologia-ágil)
 * [Aula 7 - Módelo Kanban](#aula-7---módelo-kanban)
 * [Aula 8 - Características do Módelo Kanban](#aula-8---características-do-módelo-kanban)
+* [Aula 9 - Kanban e a Melhoria Contínua dos Processos](#aula-9---kanban-e-a-melhoria-contínua-dos-processos)
+* [Aula 10 - Contribuição do Kanban para a maturidade de equipe](#aula-10---contribuição-do-kanban-para-a-maturidade-de-equipe)
 
 # Aula 2 - Tecnicas de gerenciamento de projeto
 
@@ -165,3 +167,40 @@ Rotina dos trabalhadores:
 * Divido em tres quadros
 
     ![kanban](./img/kanban.png)
+
+
+# Aula 9 - Kanban e a Melhoria Contínua dos Processos
+
+O Kanban possui quatro principios fundamentais focados em melhoria continua de processos e pessoas
+    1. Comece com o que você está fazendo agora
+    2. Concorde em buscar mudanças evolucionarias
+    3. Inicialmente, respeite os papeis, responsabilidades e cargos atuais
+    4. Incentive atos de liderança em todos os niveis
+
+* Uma das principais utilzações do kanban é a gestão à vista
+
+Prepararativos para implementação do kanban
+    1. Mapeamento dos processos
+    2. Detalhamento das atividades e das entregas que serão monitoradas
+    3. Priorização das atividades e definição dos recursos
+    4. Montagem do Kanban
+    5. Uso do kanban a plena força
+    6. Melhoria continua
+
+# Aula 10 - Contribuição do Kanban para a maturidade de equipe
+
+* O kanban proprociona uma maior maturidade de equipe, atribuindo deveres e responsabilidades. Devido aos membros da equipe não estarem sobrecarregados, eles conseguem apoiar fortemente nos problemas encontrados.
+
+* O kanban pode ser fisico ou digital.
+
+Para se tornar um modelo kanban é necessario aplicar tres etapas
+    1. Criar o painel de visualização
+    2. Limitar os processos em WIP
+    3. Gerenciar o lead-time: puxar uma nova tarefa SOMENTE quando o cartão está disponivel
+
+Um quadro simples pode conter as seguintes etapas
+    1. Analise
+    2. Desenvolvimento
+    3. Aceitação
+    4. Implantação
+
