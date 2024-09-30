@@ -12,6 +12,7 @@
 * [Aula 11 - Extremme Programming](#aula-11---extremme-programming)
 * [Aula 12 - Valores Fundamentais da XP](#aula-12---valores-fundamentais-da-xp)
 * [Aula 13 - Doze principais práticas XP](#aula-13---doze-principais-práticas-xp)
+* [Aula 14 - KIS - Keep It Simple](#aula-14---kis---keep-it-simple)
 
 # Aula 2 - Tecnicas de gerenciamento de projeto
 
@@ -348,3 +349,35 @@ A XP também define um conjunto de principios que devem ser seguidos pelas equip
     11. Cliente no local
     
     12. Codificação
+
+# Aula 14 - KIS - Keep It Simple
+
+    A filosofia inrente ao XP é a KIS (keep it simple).
+
+    Desencoraja-se o desenvolvimento de funcionalidades extras, mantendo o projeto enxuto.
+
+    Por outro lado a XP encoraja o refatoramento do projeto, mas não alterar o comportamento externo.
+
+    * Pode se explicar essa pratica em duas partes
+
+        1. A primeira diz que devem ser projetadas as funcionalidades que já foram definidas e não as que poderão ser definidas futuramente
+        
+        2. A segunda diz que deve ser feito o melhor projeto que possa entregar tais funcionalidades
+
+    Essa pratica tem o intuito de enfatizar que o projeto simples deve se concentrar em soluções sinmples e bem estruturadas para os problemas de hoje
+
+    * Algumas caracteristicas de projeto simples são:
+
+        1. Todos os testes executam com sucesso
+
+        2. O projeto expressa a ideia que o programador teve
+
+        3. O projeto não possui logica duplicada
+
+        4. O projeto contem o menor número possível de classes e métodos.
+
+    Metáfora: para facilitar a criação de um design simples, a equipe de desenvolvimento utilzia metaforas, já que elas tem o poder de transmitir ideias complexas de forma simples
+
+    Dessa forma, a intenção da metáfora é oferecer visão geral do sistema, mas em um formato simples, que possa ser compartilhada por clientes e programadores
+
+    
