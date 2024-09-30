@@ -13,6 +13,7 @@
 * [Aula 12 - Valores Fundamentais da XP](#aula-12---valores-fundamentais-da-xp)
 * [Aula 13 - Doze principais práticas XP](#aula-13---doze-principais-práticas-xp)
 * [Aula 14 - KIS - Keep It Simple](#aula-14---kis---keep-it-simple)
+* [Aula 15 - Desenvolvimento guiado por testes constantes](#aula-15---desenvolvimento-guiado-por-testes-constantes)
 
 # Aula 2 - Tecnicas de gerenciamento de projeto
 
@@ -379,5 +380,17 @@ A XP também define um conjunto de principios que devem ser seguidos pelas equip
     Metáfora: para facilitar a criação de um design simples, a equipe de desenvolvimento utilzia metaforas, já que elas tem o poder de transmitir ideias complexas de forma simples
 
     Dessa forma, a intenção da metáfora é oferecer visão geral do sistema, mas em um formato simples, que possa ser compartilhada por clientes e programadores
+
+# Aula 15 - Desenvolvimento guiado por testes constantes
+
+    Os desenvolvedores escrevem testes para cada funcionalidade antes de codifica-la. Os testes unitarios são mantidos ao longo das varias iterações e passam a fazer partre de uma bateria de testes de regressão
+
+    A ideia por trás desses testes é confirmar que nada deixou de ser testado e nada deixou de funcionar.
+
+    * Assim os testes em XP são dois
+
+        1. Testes unitário: São feitos para verificar tudo que possa dar errado. Mas é preciso escrever testes de unidade para todos os metódos.
+
+        2. Testes Funcionais: São testes usados para verificações, junto ao cliente e a equipe de teste. É utilizado para feedback do sistema.
 
     
