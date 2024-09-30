@@ -11,6 +11,7 @@
 * [Aula 10 - Contribuição do Kanban para a maturidade de equipe](#aula-10---contribuição-do-kanban-para-a-maturidade-de-equipe)
 * [Aula 11 - Extremme Programming](#aula-11---extremme-programming)
 * [Aula 12 - Valores Fundamentais da XP](#aula-12---valores-fundamentais-da-xp)
+* [Aula 13 - Doze principais práticas XP](#aula-13---doze-principais-práticas-xp)
 
 # Aula 2 - Tecnicas de gerenciamento de projeto
 
@@ -320,3 +321,30 @@ A XP também define um conjunto de principios que devem ser seguidos pelas equip
     4. Abraçando mudanças (Embracing Changes): Facilita incluir alterações através do uso de vários princípios e práticas .
 
     5. Trabalho de qualidade: qualidade não é um critério opcional, mas sim obrigatório.
+
+# Aula 13 - Doze principais práticas XP
+
+ 
+    1. O jogo de planejamento ( histórias de usuários )
+    
+    2. Pequenos lançamentos
+    
+    3. Metáfora
+    
+    4. Design simples
+    
+    5. Teste
+    
+    6. Refatoração
+    
+    7. Programação de pares
+    
+    8. Propriedade coletiva
+    
+    9. Integração Contínua
+    
+    10. Semana de trabalho de 40 horas
+    
+    11. Cliente no local
+    
+    12. Codificação
