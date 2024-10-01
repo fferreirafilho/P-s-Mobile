@@ -14,6 +14,9 @@
 * [Aula 13 - Doze principais práticas XP](#aula-13---doze-principais-práticas-xp)
 * [Aula 14 - KIS - Keep It Simple](#aula-14---kis---keep-it-simple)
 * [Aula 15 - Desenvolvimento guiado por testes constantes](#aula-15---desenvolvimento-guiado-por-testes-constantes)
+* [Aula 16 - Propriedade Coletiva do Código](#aula-16---propriedade-coletiva-do-código)
+* [Aula 17 - Padrões de Codificação e Planejamento](#aula-17---padrões-de-codificação-e-planejamento)
+* [Aula 18 - Ciclo de Vida de um Projeto XP](#aula-18---ciclo-de-vida-de-um-projeto-xp)
 
 # Aula 2 - Tecnicas de gerenciamento de projeto
 
@@ -393,4 +396,44 @@ A XP também define um conjunto de principios que devem ser seguidos pelas equip
 
         2. Testes Funcionais: São testes usados para verificações, junto ao cliente e a equipe de teste. É utilizado para feedback do sistema.
 
+    Codificação: antes do código, é recomendado o processo, que se crie uma bateria de testes unitarios
+
+    Outra caracteristica da codificaçãoa em XP é que ela recomenda que a codificação seja feita em pares, onde um desenvolve e um avalia tudo que é feito, garantindo a conformidade.
+
+# Aula 16 - Propriedade Coletiva do Código
+
+    A propriedade coletiva encoraja a equipe inteira a trabalhar mais unida em busca de qualidade de código
+
+    Em principio, pode se pensar que essa pratica pode gerar problemas, mas como todos devem respeitar a qualidade do código isso é mitigado.
+
+    Integração continua: quando  uma nova funcionalidade é incorporada ao sistema, ela pode afetar outras que já estejam implementadas. Para assegurar que todo o sistema esteja funcionando, a equipe partica a chama integraçao continua, que leva ao pares a integrarem seus codigos com o restante do sistema diversas vezes ao dia
+
+# Aula 17 - Padrões de Codificação e Planejamento
+
+    Padrões de codificação: Como XP prega a propriedade coletiva do código, osde todos podem alterar e fazer refatoramente de qualquer parte do código a qualquer momento, então é extramente necessário que se tenham padrões de codificação
+
+    O objetivo é que todos programem da mesma forma, facilitando o entendimento do código e as alterações
+
+    A equipe estabelece padrões de codificação que servem para tornar o sistema mais homogeneo
+
+    Planejamento: um conjunto de historias, que descrevem as caracteristicas e funcionalidades
+
+    Cada historia da entrada no sistema de motodologia e é indexada e o cliente lhe atribuí um valor de prioridade
+
+    Ritrmo sustentavel: a XP recomenda que os desenvolvedores trabalhem apenas oito horas por dia, evitando horas extras
+
+    Gerente de projeto: é o responsavel por ser a ponte entre o dev e o cliente
+
+    Coach: principal causador da motivação da equipe
+
+    Analista de testes: Fornece o feedback para a equipe rapidamente, sobre a qualidade do produto
+
+    Redator Tecnico: O redator tecnico ajuda a equipe de desenvolvimento a documentar o sistema
+
+
+# Aula 18 - Ciclo de Vida de um Projeto XP
+
+    Um projeto XP atravessa seis fases principais durante seu ciclo de vida: exploração, planejamento de inicial, iterações do release, produção, manutenção e morte
+
     
+
