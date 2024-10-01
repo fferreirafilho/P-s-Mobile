@@ -435,5 +435,40 @@ A XP também define um conjunto de principios que devem ser seguidos pelas equip
 
     Um projeto XP atravessa seis fases principais durante seu ciclo de vida: exploração, planejamento de inicial, iterações do release, produção, manutenção e morte
 
-    
+    * Fase de exploração
+        * Nela são investigadas soluções e verifica-se a viabilidade das mesmas. Os programadores elaboram possíveis arquitetutas e tentam visualizar como o sistema funcionará, considerando o ambiente tecnológico onde o mesmo irá rodar.
 
+    * Planejamento inicial
+        * Nesta fase de planejamento inicial deve ser usada para que os clientes concordem em uma data para lançamento do primeiro release, com base nas historias levantadas durante a fase de exploração, é sugerido um tempo de 2 semanas para o primeiro release
+
+    * Iterações do release
+        
+        * Os programadores se juntam com o cliente, definem as historias e descrevem os cartões
+
+        * O processo, então se repete até terminarem as iterações do release, o tempo para cada item deve ser uma a tres semanas, para cada release de dois a quatro meses
+
+        * Na fase da iterações do release são escritos os casos de testes funcionais e de unidade
+
+        * Ordem
+            
+            1. Escrita dos casos de testes
+            
+            2. Projeto e refactoring
+            
+            3. Codificação
+            
+            4. Realização de testes
+            
+            5. Integração
+
+    * Produção
+
+        * A medidade que o fluxo anterior ser executado esse release será liberado para o cliente, considerando o inicio da fase de produção.
+
+    * Manutenção
+        
+        * A manutenção é dada em um sistema que já esta em produção deve ser feita com muita cautela, pois qualquer alteração pode paralizar o sistema
+
+    * Morte
+
+        * A fase da morte corresponde ao término de um projeto XP. Existem duas razões para se chegar ao final de um projeto, uma boa e outra ruim.
