@@ -17,6 +17,7 @@
 * [Aula 16 - Propriedade Coletiva do Código](#aula-16---propriedade-coletiva-do-código)
 * [Aula 17 - Padrões de Codificação e Planejamento](#aula-17---padrões-de-codificação-e-planejamento)
 * [Aula 18 - Ciclo de Vida de um Projeto XP](#aula-18---ciclo-de-vida-de-um-projeto-xp)
+* [Aula 19 - Lean Manufacturing](#aula-19---lean-manufacturing)
 
 # Aula 2 - Tecnicas de gerenciamento de projeto
 
@@ -472,3 +473,17 @@ A XP também define um conjunto de principios que devem ser seguidos pelas equip
     * Morte
 
         * A fase da morte corresponde ao término de um projeto XP. Existem duas razões para se chegar ao final de um projeto, uma boa e outra ruim.
+
+# Aula 19 - Lean Manufacturing
+
+    * A lean nasceu apos o fim da segunda guerra mundial, no japão, devido a falta de recursos foi criado uma metodologia nova para manter o custo e aumentar a satisfação do produto
+
+    * O Lean visa a aplicação de conceitos do sistema de produção da Toyota ao processo de desenvolvimento de softwares
+
+    * Visa sempre a melhor utilização dos recursos
+
+    A agilidade se reflete na tolerancia a mudanças, o principal conceito é o de "risco empreendedor", definido com a oportunidade de transformar riscos em oportunidades
+
+    Ao pe da letra essa metodologia pode ser considerada muito mais como estratégia de negocios e de gerenciamento de projetos
+
+    
