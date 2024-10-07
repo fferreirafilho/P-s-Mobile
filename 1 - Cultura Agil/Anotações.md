@@ -18,6 +18,9 @@
 * [Aula 17 - Padrões de Codificação e Planejamento](#aula-17---padrões-de-codificação-e-planejamento)
 * [Aula 18 - Ciclo de Vida de um Projeto XP](#aula-18---ciclo-de-vida-de-um-projeto-xp)
 * [Aula 19 - Lean Manufacturing](#aula-19---lean-manufacturing)
+* [Aula 20 - Os Sete Princípios do Lean Manufacturing](#aula-20---os-sete-princípios-do-lean-manufacturing)
+* [Aula 21 - A Metodologia Scrum](#aula-21---a-metodologia-scrum)
+* [Aula 23 - Os Players da Metodologia Scrum](#aula-23---os-players-da-metodologia-scrum)
 
 # Aula 2 - Tecnicas de gerenciamento de projeto
 
@@ -485,5 +488,84 @@ A XP também define um conjunto de principios que devem ser seguidos pelas equip
     A agilidade se reflete na tolerancia a mudanças, o principal conceito é o de "risco empreendedor", definido com a oportunidade de transformar riscos em oportunidades
 
     Ao pe da letra essa metodologia pode ser considerada muito mais como estratégia de negocios e de gerenciamento de projetos
+
+# Aula 20 - Os Sete Princípios do Lean Manufacturing
+
+    A metologia lean é distribuida em Sete princípios
+
+        1. Eliminar o desperdício
+        2. Amplificar o aprendizado
+        3. Adiar comprometimentos e manter a flexibilidade
+        4. Entregar rápido
+        5. Tornar a equipe responsável
+        6. Construir integridade
+        7. Visualizar o todo
+
+# Aula 21 - A Metodologia Scrum
+
+    A metodologia Scrum é a metodologia agil mais conhecida.
+
+    Dentre as metodologias ágeis da atualidade, o scrum é reconhecidamente a mais popular e evoluiu nas últimas decadas para se tornar a estrutura de processo mais aplicada em desenvolvimento de software
+
+    No entenado, apesar de sua aparente simplicidade ela esconde grandes desafios de implementação
+
+    O scrum é um conjunto de boas práticas empregados no gereciamento de projetos complexos, em que não se conhece todas as etapas ou necessidades
+
+    Focado nos membros da equipe, tornando todos os processo mais simples e agil com gestão a vista
+
+    Ela não se resume apenas em TI, mas pode ser utilizada em varias outras areas
+
+    O scrum tem seu trabalhar dividido em sprints, que possibilitam aos times manter uma cadência de trabalho. 
+
+    * A metodologia SCRUM é baseada inicialmente em três pilares
+
+        1. Transparência: todos da equipe possuem acesso e fácil visualização do status de andamento de todas as fases e entragáveis de projeto. 
+
+        2. Inspeção: o tempo todo é inspecionado tudo que ocorre dentro do projeto, uma vez que o mesmo tem um esquema transparente para gestão
+
+        3. Adaptação: este método consiste em uma ferramente adaptável, ou seja, uma ferramente que não engessa o projeto, o mesmo sofrente alteração é possível adaptar o modo de atendimento dentro do projeto, para suprir todas a demandas.
+
+    
+# Aula 22 - Como funciona o Scrum?
+
+    O Scrum funciona estruturalmente por papéis, cerimônias e artefatos.
+
+    Sprints são clicos de trabalho, que são definidas durante uma reunião de planejamento, que define todas as atividades da sprint. Ao final da sprint é realizado uma reunião para revisar todo o trabalho realizado. Alem desses dois encontros é recomendado um evento cahamdo retrospectiva da Sprint.
+
+    Diariamente e no mesmo horario, o time se encontra por cerca de quinze minutos para alinhar todo o progresso do time. Chamada de daily scrum.
+
+    * O Scrum tem quatro eventos
+
+        1. Sprint: a cadência que a equipe Scrum segue
+
+        2. Sprint plannig: a reunião de início de Sprint. onde o time planeja e se compromete com a meta e o backlog da Sprint.
+
+        3. Daily Scrum: reunião diária para alinhamento
+
+        4. Retrospectiva: a reunião realizada uma vez na sprint que busca a melhoria contínua: o que podemos fazer para melhorar
+
+    * Dentro do scrum existem três players
+
+        1. O gerente do roduto(Product owner), Scrum Master e Time de desenvolvimento
+
+    Princípios universais aplicaveis a todos os membros
+
+        * Trabalha verdadeiramente como um time, além de ser pequeno e auto organizado
+
+        * Compartilha responsabilidade
+
+        * Foca na entrega
+
+# Aula 23 - Os Players da Metodologia Scrum
+
+    O Scrum possui três players
+
+        * Product Owner
+
+        * Scrum master
+
+        * Developer Team
+
+    Considerando que a essência da metodologia é auto-organização e a melhoria continua, os três papeis recebem definição mínima de responsabilidades e prestação de contas para permitir que as equipes entreguem seus trabalhos com efetividade.
 
     
