@@ -80,4 +80,8 @@
 
 # Aula 3 - Requisitos funcionais, não funcionais ou como requisitos de domínio
 
-    
+    Requisitos funcionais são suas ações principais, declarações de funções que o sistema deve fornecer
+
+    Requisitos não funcionais são restrições sobre os serviços ou funções oferecidos pelo sistema.
+
+    Requisitos de domínio são requisitos que se originam no domínio de aplicação do sistema e que reflete características desse domínio
