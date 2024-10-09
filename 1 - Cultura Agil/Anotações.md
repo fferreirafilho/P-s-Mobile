@@ -21,6 +21,7 @@
 * [Aula 20 - Os Sete Princípios do Lean Manufacturing](#aula-20---os-sete-princípios-do-lean-manufacturing)
 * [Aula 21 - A Metodologia Scrum](#aula-21---a-metodologia-scrum)
 * [Aula 23 - Os Players da Metodologia Scrum](#aula-23---os-players-da-metodologia-scrum)
+* [Aula 24 - O Papel do Product Owner](#aula-24---o-papel-do-product-owner)
 
 # Aula 2 - Tecnicas de gerenciamento de projeto
 
@@ -568,4 +569,18 @@ A XP também define um conjunto de principios que devem ser seguidos pelas equip
 
     Considerando que a essência da metodologia é auto-organização e a melhoria continua, os três papeis recebem definição mínima de responsabilidades e prestação de contas para permitir que as equipes entreguem seus trabalhos com efetividade.
 
-    
+# Aula 24 - O Papel do Product Owner
+
+    O Product Owner tem como principal objetico garantir que o produto entregue vá ao encontro das necessidades de negócio e que cada sprint contribua para a mais valia do produto final
+
+    * As principais responsabilidades são:
+
+        1. Gerir o product backlog e garantir que este está sempre atualizado e priorizado
+
+        2. Representar e gerir os interesses do Stakeholders
+
+        3. Definir e garantir o alinhamento de todos os intervenientes no projeto sobre a visão do produto
+
+        4. Garantir que o projeto entrege em cada sprint seja um mais valia para o negócio
+
+        
