@@ -2,6 +2,7 @@
 
 * [Aula 1 - Engenharia de Requisitos](#aula-1---engenharia-de-requisitos)
 * [Aula 2 - Levantamento e Análise de Requisitos](#aula-2---levantamento-e-análise-de-requisitos)
+* [Aula 3 - Requisitos funcionais, não funcionais ou como requisitos de domínio](#aula-3---requisitos-funcionais-não-funcionais-ou-como-requisitos-de-domínio)
 
 # Aula 1 - Engenharia de Requisitos
 
@@ -52,5 +53,31 @@
         * Desenvolvimento de protótipos - Pode ser apresentado modulos para que o cliente valide e teste.
 
     A cada analise e iteração, uma documentação deverá ser criado e ajustada, de forma muito criteriosa, pois o sistema será feito em cima dessa documentação.
+
+    Os requisitos são hierarquizados
+
+        * A partir do momento de um requisitos gerado, deverá entrar numa hierarquia.
+        
+            1. Requisitos de negocio da empresa, são os requisitos base do sistema
+
+            2. Requisitos do usuário, são requisitos que devem ser atendidos para utilização do usuário
+
+            3. Requisitos de sistema, são requisitos que a aplicação utiliza para funcionar.
+
+            4. Requisitos de software, são as caracteristicas especificas que o software oferece.
+    
+    Ao terminar de realizar o levantamento dos requisitos eles deverão ser transformados em um documento.
+
+        1. Requisitos de usuário designam requisitos abstratos de alto nível. O primeiro requisito é o requisito de usuário, Eles são escritos em linguagem de alto nível, coloquial. Essa escrita tem que ser clara para cliente e dev
+
+        2. Requisitos de sistema indicam a descrição detalhada do que o sistema deve fazer. Esse trecho do documento diz o que o software deve fazer, como fazer e como se comportar. Especificações comportamentais e não comportamentais. Essa escrita tem que ser clara, para dev e engenheiro
+
+            * Se a especificação for rígida demais, logo impedirá o processo de criação
+
+            * No entanto se for flexível, log dará margem para diversas interpretações
+
+    A especificação é basicamente o contrato do sistema, que impede ao cliente quebrar clausula de contrato ou pedir algo que esta fora do escopo do sistema
+
+# Aula 3 - Requisitos funcionais, não funcionais ou como requisitos de domínio
 
     
