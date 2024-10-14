@@ -3,6 +3,7 @@
 * [Aula 1 - Engenharia de Requisitos](#aula-1---engenharia-de-requisitos)
 * [Aula 2 - Levantamento e Análise de Requisitos](#aula-2---levantamento-e-análise-de-requisitos)
 * [Aula 3 - Requisitos funcionais, não funcionais ou como requisitos de domínio](#aula-3---requisitos-funcionais-não-funcionais-ou-como-requisitos-de-domínio)
+* [Aula 8 - Medição da Qualidade dos Requisitos](#aula-8---medição-da-qualidade-dos-requisitos)
 
 # Aula 1 - Engenharia de Requisitos
 
@@ -85,3 +86,27 @@
     Requisitos não funcionais são restrições sobre os serviços ou funções oferecidos pelo sistema.
 
     Requisitos de domínio são requisitos que se originam no domínio de aplicação do sistema e que reflete características desse domínio
+
+# Aula 8 - Medição da Qualidade dos Requisitos
+
+    Para medir a qualidade dos requisitos alguns pontos devem ser observados
+
+        * Fidedignidade
+        * Compreensibilidade
+        * Maturidade
+        * Testabilidade
+
+    Os três principais criterios que devem ser observados são
+
+        * Manutenibilidade:
+            * Determinanr a consistencia
+            * Contagem de comentarios
+            * Complexidade
+            * Modularidade
+            * Tamanho e grau de complexidade
+        
+        * Portabilidade
+            * Para determinar o grau de portabilidade deverá ser levado em consideração o acoplamento do código e da linguagem aos recursos de maquina ou arquitetura imposta
+        
+        * Confiabilidade
+            * Erros acontecem e vão acontecer, a confiabilidade é "Capacidade que possui de identificar o erro e solucionar"
