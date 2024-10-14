@@ -4,6 +4,8 @@
 * [Aula 2 - Levantamento e Análise de Requisitos](#aula-2---levantamento-e-análise-de-requisitos)
 * [Aula 3 - Requisitos funcionais, não funcionais ou como requisitos de domínio](#aula-3---requisitos-funcionais-não-funcionais-ou-como-requisitos-de-domínio)
 * [Aula 8 - Medição da Qualidade dos Requisitos](#aula-8---medição-da-qualidade-dos-requisitos)
+* [Aula 9 - Requisitos de rastreabilidade bidirecional](#aula-9---requisitos-de-rastreabilidade-bidirecional)
+* [Aula 10 - Requisitos não-funcionais: requisitos de produtos](#aula-10---requisitos-não-funcionais-requisitos-de-produtos)
 
 # Aula 1 - Engenharia de Requisitos
 
@@ -110,3 +112,53 @@
         
         * Confiabilidade
             * Erros acontecem e vão acontecer, a confiabilidade é "Capacidade que possui de identificar o erro e solucionar"
+
+# Aula 9 - Requisitos de rastreabilidade bidirecional
+    
+    Quando é determinado os requisitos do projeto, ele tem uma origem que pode ser
+
+        1. Necessidade da Aplicação
+        
+        2. Necessidade do usuário
+
+        3. Imposição Legal
+
+        4. Imposição Cliente
+
+    Quando a analise do requisto é feito, deve ser determinado dois caminhos
+
+        1. Caminho ascendente: Do requisito até quem o originou
+
+        2. Caminho descendente: De quem originou até o requisito ou do requisito até quem ele influência
+    
+    Para realizar o rastreamento é necessário na documentação numerar os requisitos e adicionar um numero de origem
+
+    Os principais resultados da analise de requisitos sao:
+
+        * **Funcional**(ações principais): identifica as atividades do sistema;
+        * **Comportamental**(atividades de controle): descreve a sequência e a possível sobreposição das funções do ssitema em uma hierarquia de atividades de controle;
+        * **Não-comportamental**(Atributos): inclui o planejamento de engenharia humana e de garantia de qualidade  
+
+# Aula 10 - Requisitos não-funcionais: requisitos de produtos
+
+    * Requisitos não funcionais podem ser dividos em três
+
+        1. Requisitos relativos ao produtos - Dizem respeito ao comportamento do produto, "Como ele faz".
+            * Velocidade de Operação
+            * Espaço mínimo memoria exigido
+            * Confiabilidade
+            * Taxa aceitavel de falhas
+            * Portabilidade
+
+        2. Requisitos organizacionais - Tem haver com a cultura da empresa que solicitando o sistema
+            * Padrões de processos
+            * Cultura organizacional
+            * Linguagem de programação - Levar em consideração a stack da sua empresa que voce trabalha
+
+        3. Requisitos externos - Exigencias ambientais que influênciam no sistema
+            * Interoperabilidade
+            * Requisitos Legais
+            * Regras de Compliance
+            * Raestrabilidade
+
+    
