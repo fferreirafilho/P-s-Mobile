@@ -161,4 +161,4 @@
             * Regras de Compliance
             * Raestrabilidade
 
-    
+    * Os requisitos de dominio são : São aqueles derivados do domínio da aplicação, em vez de serem obtidos a partir das nacessidades específicas dos usuários do sistema.
