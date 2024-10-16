@@ -230,4 +230,12 @@
 
         2 - Quando interfaces de hardware e software tiverem de ser especificadas
 
-    
+    Existem pelo menos três desvantagens ao usar PDL
+
+        1 - A linguagem utilizada para escrever a especificação pode não ser suficientemente expressiva para descrever a funcionalidade do sistema
+
+        2 - A notação só é compreesível para pessoas que tenham algum conhecimento de linguagem de programação
+
+        3 - O requisito pode ser considerado um esboço de especificação de projeto, em vez de um modelo para ajudar o usuário a compreender o sistema
+
+        
