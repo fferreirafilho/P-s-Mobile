@@ -8,6 +8,8 @@
 * [Aula 10 - Requisitos não-funcionais: requisitos de produtos](#aula-10---requisitos-não-funcionais-requisitos-de-produtos)
 * [Aula 11 - Requisitos de usuário](#aula-11---requisitos-de-usuário)
 * [Aula 12 - Requisitos de Sistema ](#aula-12---requisitos-de-sistema)
+* [Aula 13 - Linguagem Natural Estruturada](#aula-13---linguagem-natural-estruturada)
+* [Aula 14 - Especificação de requisitos usando PDL](#aula-14---especificação-de-requisitos-usando-pdl)
 
 # Aula 1 - Engenharia de Requisitos
 
@@ -191,3 +193,41 @@
     Uma arquitetura inicial do sistema pode ser definida para ajudar a estrutura a especificação de requisitos.
 
     A compreensão da linguagem natural depende do uso das mesmas palavras para o mesmo conceito, pelos leitores e por quem escreve as especificações
+
+# Aula 13 - Linguagem Natural Estruturada
+
+    A linguagem natural estrutura é uma forma restrita da linguagem natural, que se destina a escrever requisitos de sistema
+
+    Sua vantagem é que ela mantém a maior parte da facilidade de expressão e compreesão da linguagem natura, mas também garante que algum grau de uniformidade seja imposto à especificação
+
+    As notações de linguagem estruturada podem limitar a terminologia utilzada e usar templates para especificar os requisitos de sistema
+
+    A especificação pode ser estruturada em torno dos objetos manipulados pelo sistema, das funções realizadas ou dos eventos por ele processados
+
+    Quando é utilizado um formulario padronizado voce fazer um
+    
+        1 - Descrição da função ou entidade que esta sendo especificada.
+        
+        2 - Descrição de suas entradas e de onde elas se originam
+
+        3 - Descrição de suas saidas e para onde elas prosseguirão
+
+        4 - Se uma abordagem funcional for uitilizada, será "chamada" uma pré condição estabelecendo o que deve ser verdadeiro antes da função
+
+        5 - Descrição dos efeitos colaterais (se existirem) da operação
+
+# Aula 14 - Especificação de requisitos usando PDL
+
+    PDL significa (Linguagem de Descrição de Programa)
+
+    PDL é uma linguagem derivada de linguagem de programação Java ou Ada, que pode conter princípios mais abstratos, adicionais, para aumentar o poder de expressão
+
+    Omissões e inconsistências de requisitos podem ser inferidas a partir do resultados dessas especificações
+
+    A aplicabilidade da PDL é melhor em dois casos
+
+        1 - Quando a operação é especificada com consequência de ações mais simples e a ordem de execução é fator importante.
+
+        2 - Quando interfaces de hardware e software tiverem de ser especificadas
+
+    
