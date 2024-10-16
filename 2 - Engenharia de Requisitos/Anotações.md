@@ -6,6 +6,8 @@
 * [Aula 8 - Medição da Qualidade dos Requisitos](#aula-8---medição-da-qualidade-dos-requisitos)
 * [Aula 9 - Requisitos de rastreabilidade bidirecional](#aula-9---requisitos-de-rastreabilidade-bidirecional)
 * [Aula 10 - Requisitos não-funcionais: requisitos de produtos](#aula-10---requisitos-não-funcionais-requisitos-de-produtos)
+* [Aula 11 - Requisitos de usuário](#aula-11---requisitos-de-usuário)
+* [Aula 12 - Requisitos de Sistema ](#aula-12---requisitos-de-sistema)
 
 # Aula 1 - Engenharia de Requisitos
 
@@ -162,3 +164,30 @@
             * Raestrabilidade
 
     * Os requisitos de dominio são : São aqueles derivados do domínio da aplicação, em vez de serem obtidos a partir das nacessidades específicas dos usuários do sistema.
+
+# Aula 11 - Requisitos de usuário
+
+    Requisitos de usuários devem ser especificados para o cliente em linguagem humana, pode utilizar graficos, planilhas, o que quiser, para melhor descrever o sistema, mas apenas comportamentos externos do sistema.
+
+    Alguns erros podem acontecer durante a escrita de requisitos de usuário.
+
+        * Falta de Clareza
+
+        * Confusão em relação aos requisitos
+
+        * Fusão de Requisitos
+
+
+    É boa pratica separar o requisitos de usuário os requisitos mais detalhados do sistema, em um documento específico de requisitos
+
+# Aula 12 - Requisitos de Sistema 
+
+    Requisitos do sistema são instruções detalhadas do sistema, ele provavelmente será utilizado como item do contrato.
+
+    Podem servir como base para um contrato destinado à implantação do sistema e, portanto, devem ser uma especificação completa e consistente de todo o sistema
+
+    O relatorio de requisitos do sistema, deve possuir linguagem tecnica das instruções do sistema.
+
+    Uma arquitetura inicial do sistema pode ser definida para ajudar a estrutura a especificação de requisitos.
+
+    A compreensão da linguagem natural depende do uso das mesmas palavras para o mesmo conceito, pelos leitores e por quem escreve as especificações
