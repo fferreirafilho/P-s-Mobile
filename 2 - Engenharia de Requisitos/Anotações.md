@@ -281,4 +281,21 @@
 
     No momento da geração de artefatos a partir da quebra dos procedimentos, é gerada os requisitos de software.
 
+    Ao escrever uma especificação deverá ser levada em conta 5 principios
+
+        1. Funcionalidade - O que o software deve fazer
+
+        2. Interfaces Externas - Interação do software com o ambiente, seja outros sitemas ou pessoas
+
+        3. Desempenho - Velocidade do sistema
+
+        4. Atributos
+
+        5. Restrições
+
+    Ao final disso será elaborado um documento de requisitos de software a ERS.
+
+    Deve incluir os requisitos de usuários e requisitos de sistema.
+
+    Naturalmente, as informações incluas no documento de requisitos devem depender do tipo de software que esta sendo desenvolvido e a abordagem de desenvolvimento utilizada. Não há uma fórmula única.
     
