@@ -10,6 +10,8 @@
 * [Aula 12 - Requisitos de Sistema ](#aula-12---requisitos-de-sistema)
 * [Aula 13 - Linguagem Natural Estruturada](#aula-13---linguagem-natural-estruturada)
 * [Aula 14 - Especificação de requisitos usando PDL](#aula-14---especificação-de-requisitos-usando-pdl)
+* [Aula 15 - Análise de problemas](#aula-15---análise-de-problemas)
+* [Aula 16 - Especificação de Requisitos de Software (ERS)](#aula-16---especificação-de-requisitos-de-software-ers)
 
 # Aula 1 - Engenharia de Requisitos
 
@@ -238,4 +240,45 @@
 
         3 - O requisito pode ser considerado um esboço de especificação de projeto, em vez de um modelo para ajudar o usuário a compreender o sistema
 
+
+# Aula 15 - Análise de problemas
+
+    Análise de problemas é outra forma de se referir a analise de requisitos.
+
+    Sua vantagem é que ela mantém a maoir parte da facilidade de expressão e compreensão da linguagem natural, mas também garante que algum grau de uniformidade seja importo à especificação.
+
+    É identificar maneiras de identificar soluções pros problemas informados..
+
+    A analise de problemas implica em três formas de analise
+
+        1 - Particionamento: Agrega as relações estruturais entre os objetos, ele compartimenta as estruturas a serem analisadas
+
+        2 - Abstração: É a identificação das relações estruturais entre os objetos, funções e estados.
         
+        3 - Projeção: É quando se é forncecido uma projeção da relação entre os objetos, funções e estados.
+
+    Especificação de interfaces
+
+    A maioria dos sistmas devem operar como outros sistemas.
+
+    As espeificações devem ser definidas no início do processo e incluídas no documento de requisitos.
+
+    existem três tipos de interfaces
+
+        1. Interface de procedimentos
+
+        2. Estrutura de dados
+
+        3. Representação dos dados
+
+        4. As notaçõos formais permitem que as interfaces sejam definidas de maneira nao ambígua, mas sua natureza especializada significa que elas não são compreensíveis sem treinamento especial.
+
+# Aula 16 - Especificação de Requisitos de Software (ERS)
+
+    A especificação de requisitos de software é prevista no padrão IEEE 830-1993.
+
+    Ela trata de uma descrição do produto de software que esta sendo oferecido.
+
+    No momento da geração de artefatos a partir da quebra dos procedimentos, é gerada os requisitos de software.
+
+    
