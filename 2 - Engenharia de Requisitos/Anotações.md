@@ -14,6 +14,7 @@
 * [Aula 16 - Especificação de Requisitos de Software (ERS)](#aula-16---especificação-de-requisitos-de-software-ers)
 * [Aula 17 - Análise de requisitos orientada a objetos](#aula-17---análise-de-requisitos-orientada-a-objetos)
 * [Aula 18 - Especificação genérica](#aula-18---especificação-genérica)
+* [Aula 19 - Dicionário de dados](#aula-19---dicionário-de-dados)
 
 # Aula 1 - Engenharia de Requisitos
 
@@ -318,5 +319,15 @@
         3. Cardinalidade
 
 # Aula 18 - Especificação genérica
+
+    A classe de objetos é identificada de forma que os objetos representem instâncias dessa classe, herdem os atributos e os serviços fornecidos pelos membros da classe.
+
+    O diagrama de fluxo de dados é conhecido como (DFD)
+
+    O DFD é uma combinação com o fluxo de dados com o que esta especificado no dicionario de dados e nos processos. Tudo trabalha para concorrer a solução do problema
+
+    São de fácil utilização e muito úteis para preencher lacunas entre as descrições informais do sistema e o desenvolvimento das descrições do fluxo de informações no sistema.
+
+# Aula 19 - Dicionário de dados
 
     
