@@ -15,6 +15,7 @@
 * [Aula 17 - Análise de requisitos orientada a objetos](#aula-17---análise-de-requisitos-orientada-a-objetos)
 * [Aula 18 - Especificação genérica](#aula-18---especificação-genérica)
 * [Aula 19 - Dicionário de dados](#aula-19---dicionário-de-dados)
+* [Aula 20 - Especificação do processo](#aula-20---especificação-do-processo)
 
 # Aula 1 - Engenharia de Requisitos
 
@@ -330,4 +331,22 @@
 
 # Aula 19 - Dicionário de dados
 
-    
+    Ele fornece informações como tipo de dados, acurácia necessária de dados úteis aos projetistas e implementadores 
+
+    Fluxo de dados especificam processo que geram ou recebem dados
+
+    A engenharia de requisitos é um processo que contempla todas as atividades exigidas para criar e manter o documento de requisitos de sistema.
+
+    Nesse contexto existem 4 atividades genericas que se deve trabalhar
+
+        1. Estudo da viabilidade
+
+        2. Obtenção
+        
+        3. análise de requisitos.
+
+        4. Gerenciamento de requisitos
+
+    A engenharia de requisitos pode ser empregada como processo de aplicação de método estruturado, como a análise orientada a objetos.  
+
+# Aula 20 - Especificação do processo
