@@ -12,6 +12,8 @@
 * [Aula 14 - Especificação de requisitos usando PDL](#aula-14---especificação-de-requisitos-usando-pdl)
 * [Aula 15 - Análise de problemas](#aula-15---análise-de-problemas)
 * [Aula 16 - Especificação de Requisitos de Software (ERS)](#aula-16---especificação-de-requisitos-de-software-ers)
+* [Aula 17 - Análise de requisitos orientada a objetos](#aula-17---análise-de-requisitos-orientada-a-objetos)
+* [Aula 18 - Especificação genérica](#aula-18---especificação-genérica)
 
 # Aula 1 - Engenharia de Requisitos
 
@@ -298,4 +300,23 @@
     Deve incluir os requisitos de usuários e requisitos de sistema.
 
     Naturalmente, as informações incluas no documento de requisitos devem depender do tipo de software que esta sendo desenvolvido e a abordagem de desenvolvimento utilizada. Não há uma fórmula única.
+    
+# Aula 17 - Análise de requisitos orientada a objetos
+
+    A abordagem orientada a objetos para a especificação de um sistema de software é caracterizada por hierarquias de objetos.
+
+    A ideia basica é dar uma abordagem incremental à compreensão do problema, para ocultar detalhes desncessários e facilitar a captura dos recursos essenciais de um sistema complexo.
+
+    A analise de requisitos orientada a objetos (OORA) começa com a definição dos objetos indentificados em uma partição
+
+    Na primeira parte da analise é identificado:
+
+        1. caracteristicas de cada objetos: é escolhido nome, serviços, Atributos
+
+        2. Atributos
+
+        3. Cardinalidade
+
+# Aula 18 - Especificação genérica
+
     
