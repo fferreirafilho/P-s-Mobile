@@ -384,4 +384,16 @@
 
     Stakeholder é qualquer pessoa que terá ou sofrerá influência direta ou indireta em relação aos requisitos do sistema
 
+    Os Stakeholders frequentemente não sabem na realidade o que querem do sistema computacional, a não ser em termos muito gerais.
+
+    Os engenheiros de requisitos que não tem experiência no domínio do cliente devem compreender esses requisitos.
+
+    Novos requisitos podem surgir por parte dos novos stakeholders, que não haviam sido consultados inicialmente
+
+    O levantamento de requisitos pode ser feito através de 
     
+    1. Entrevistas
+
+    2. Prototipação
+
+    JAD (Joint Applicatoin Development) - Envolve atividades de preparação para reuniões, sessÕes de worksop com os pariticipantes, agenda para as reuniões, participantes assumindo papeis de facilitador / condutor e documentador, além de facilidades visuais, como a utilização de flipchart, quadro negro.
