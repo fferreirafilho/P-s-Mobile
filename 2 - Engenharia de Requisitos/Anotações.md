@@ -16,6 +16,8 @@
 * [Aula 18 - Especificação genérica](#aula-18---especificação-genérica)
 * [Aula 19 - Dicionário de dados](#aula-19---dicionário-de-dados)
 * [Aula 20 - Especificação do processo](#aula-20---especificação-do-processo)
+* [Aula 21 - Estudos de viabilidade](#aula-21---estudos-de-viabilidade)
+* [Aula 22 - Levantamento e análise de requisitos](#aula-22---levantamento-e-análise-de-requisitos)
 
 # Aula 1 - Engenharia de Requisitos
 
@@ -350,3 +352,36 @@
     A engenharia de requisitos pode ser empregada como processo de aplicação de método estruturado, como a análise orientada a objetos.  
 
 # Aula 20 - Especificação do processo
+
+    Ao descrever um processo pode até ser usado linguagem natural, mas não deve ser exagerado na linguaguem informal.
+
+    É recomendado utilização de pseudo linguagem
+
+    A descrição do processo não é feito para ser uma descrição do processo, mas sim uma descrição do processo em si
+
+    
+# Aula 21 - Estudos de viabilidade
+
+    Para todos os sistemas novos, o processo de engenharia de requisitos de sistema deve começar com o estudo de viabilidade, por que se o projeto se mostrar inviável, nem adianta começar.
+
+    A entrada para o estudo de viabilidade é uma descrição geral do sistema e de como ele será utilizado na organização.
+
+    O estudo de viabilidade se atem a responder 3 perguntas
+
+        1. O sistema contribui para os objetos da organização?
+
+        2. O sistema pode ser implementado com a utilização da tecnologia atual dentro das restrições de custo e de prazo ?
+
+        3. O sistema pode ser integrado a outros sistemas que já se encontram em operação?
+
+    Preparar estudos de viabilidade envolve avaliar e coletar informações e redigir relatórios
+
+    Como a organização se comportaria se esse sistema forsse implementado?
+
+    O sistema requer tecnologia que não tenha sido utilizada anteriormente na organização?
+
+# Aula 22 - Levantamento e análise de requisitos
+
+    Stakeholder é qualquer pessoa que terá ou sofrerá influência direta ou indireta em relação aos requisitos do sistema
+
+    
