@@ -20,6 +20,7 @@
 * [Aula 22 - Levantamento e análise de requisitos](#aula-22---levantamento-e-análise-de-requisitos)
 * [Aula 23 - Atividades de processo](#aula-23---atividades-de-processo)
 * [Aula 24 - Levantamento orientado a pontos de vista](#aula-24---levantamento-orientado-a-pontos-de-vista)
+* [Aula 25 - Diferentes significados para ponto de vista](#aula-25---diferentes-significados-para-ponto-de-vista)
 
 # Aula 1 - Engenharia de Requisitos
 
@@ -424,4 +425,19 @@
 
     Para qualquer sistema, de tamanho médio ou grande, normalmente há diferentes tipos de usuário final, o que implica em que muitos stakeholders têm algum tipo de interesse nos requisitos do sistema.
 
-    
+# Aula 25 - Diferentes significados para ponto de vista
+
+    Diferentes métodos de análise apresentam diferentes ideias sobre o que significa "ponto de vista"
+
+    Dreno de dados é uma estrutura que se beneficia e utiliza esse dado.
+
+    Fonte dados prove o dado e dreno utiliza ele.
+
+    Um framework de representação, funciona bem para apresentação dos requisitos e o entendimento
+
+    Os pontos de vista são externos ao sistema e, assim, são uma maneira natural de estruturar o processo de levantamento de requisitos.
+
+    É relativamente fácil de decidir se alguma coisa é um ponto de vista válido. Os pontos de vist devem interagir com o sistema de alguma maneira.
+
+    Os pontos de vista múltiplos permites que o mesmo serviço tenha diferentes requisitos não funcionais em diferentes pontos de vista.
+
