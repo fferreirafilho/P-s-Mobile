@@ -18,6 +18,8 @@
 * [Aula 20 - Especificação do processo](#aula-20---especificação-do-processo)
 * [Aula 21 - Estudos de viabilidade](#aula-21---estudos-de-viabilidade)
 * [Aula 22 - Levantamento e análise de requisitos](#aula-22---levantamento-e-análise-de-requisitos)
+* [Aula 23 - Atividades de processo](#aula-23---atividades-de-processo)
+* [Aula 24 - Levantamento orientado a pontos de vista](#aula-24---levantamento-orientado-a-pontos-de-vista)
 
 # Aula 1 - Engenharia de Requisitos
 
@@ -397,3 +399,29 @@
     2. Prototipação
 
     JAD (Joint Applicatoin Development) - Envolve atividades de preparação para reuniões, sessÕes de worksop com os pariticipantes, agenda para as reuniões, participantes assumindo papeis de facilitador / condutor e documentador, além de facilidades visuais, como a utilização de flipchart, quadro negro.
+
+# Aula 23 - Atividades de processo
+
+    Cada organização pode ter sua própria versão ou uma versão mais definida do esquema proposto para o JAD, dependendo de fatores locais, como perícia da equipe, tipo de sistema em desenvolvimento, padrões utilziados, entre outros.
+
+    O JAD estabelece seis perguntas basicas
+
+        1. Compreesão do domínio
+
+        2. Coleta de Requisitos
+
+        3. Classificação
+
+        4. Resolução de conflitos
+
+        5. Definição das prioridades
+
+        6. Verificação de Requisitos
+
+    O ciclo começa com a compreesão do domínio e termina com a verificação dos requisitos. A compreensão dos requisitos pelo analista melhora a cada fase do ciclco
+
+# Aula 24 - Levantamento orientado a pontos de vista
+
+    Para qualquer sistema, de tamanho médio ou grande, normalmente há diferentes tipos de usuário final, o que implica em que muitos stakeholders têm algum tipo de interesse nos requisitos do sistema.
+
+    
