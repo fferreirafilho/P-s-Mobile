@@ -21,6 +21,7 @@
 * [Aula 23 - Atividades de processo](#aula-23---atividades-de-processo)
 * [Aula 24 - Levantamento orientado a pontos de vista](#aula-24---levantamento-orientado-a-pontos-de-vista)
 * [Aula 25 - Diferentes significados para ponto de vista](#aula-25---diferentes-significados-para-ponto-de-vista)
+* [Aula 26 - O método VORD](#aula-26---o-método-vord)
 
 # Aula 1 - Engenharia de Requisitos
 
@@ -441,3 +442,16 @@
 
     Os pontos de vista múltiplos permites que o mesmo serviço tenha diferentes requisitos não funcionais em diferentes pontos de vista.
 
+# Aula 26 - O método VORD
+
+    VORD(Viewpoint-Oriented Requirments Definition - Definição de Requisitos Orientada a Pontos de Vista) foi projetada como um framework orientado a serviços, para levantamento e análise de requisitos.
+
+    Identificação do ponto de vista
+
+    Estruturação de pontos de vista
+
+    A documentação do ponto de vista
+
+    Mapeamento de sistema conforme pontos de vista
+
+    
