@@ -2,7 +2,7 @@
 
 * [Aula 1 - O que é UX](#aula-1---o-que-é-ux)
 * [Aula 2 - Heurísticas de Nielsen](#aula-2---heurísticas-de-nielsen)
-
+* [Aula 6 - Personas](#aula-6---personas)
 
 # Aula 1 - O que é UX
 
@@ -55,3 +55,21 @@
         9. Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros
 
         10. Ajuda e documentação
+
+# Aula 6 - Personas
+
+    O conceito de "Persona" surge como uma ferramenta valiosa para ajudar as empresas a entenderem às necessidade, desejos e comportamentos de seus usuários de forma mais eficaz
+
+    Uma persona é uma representação ficticia de um usuário real de um serviço.
+
+    Ao utilizar uma persona as empresas humanizam e personificam um usuário
+
+    Existem alguns metodos de identificação de personas
+
+        1. Analise de Dados: Por meio desse metodo utilizamos dados demograficos, metricas de uso e analise de comportamento de usuário para identificar tendencias de utilização
+        
+        2. Segmentação: Agrupamos os usuários por categorias, criando os perfis por segmentos
+
+        3. Entrevistas com especialistas: Fazendo esse tipo de entrevista, é possível consultar especialistas da area que conhecem os usuário para ter acesso a insigths valiosos.
+
+        4. Pesquisas de usuários
